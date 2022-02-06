@@ -1,7 +1,8 @@
 {
-  "name": "dorsin_react",
+  "name": "bcu-v2",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://iankit.me/bcu-v2",
   "dependencies": {
     "react": "^16.7.0",
     "react-build": "^1.0.8",
